@@ -1,0 +1,260 @@
+body{
+    background: linear-gradient(-10deg,rgb(0, 153, 255),rgb(209, 209, 209));
+    background-repeat:no-repeat;
+    width: 99%;
+    height: 390vh;
+}
+nav{
+    display: inline-block;
+    
+}
+.shose{
+    margin-left: 100px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+}
+.shose:hover{
+    color: aliceblue;
+    filter: drop-shadow(0 0 3px black);
+}
+.text{
+    position: absolute;
+    padding: 90px 60px;
+    
+    margin: 140px 50px;
+    display: flex;
+}
+.logo1{
+    position: absolute;
+    width: 100px;
+    top: 190px;
+    left: 94px;
+    cursor: pointer;
+}
+.text1{
+    background-color: #f2f2f2;
+    padding: 100px;
+    cursor: pointer;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin: 13px;
+    transition: 0.2s;
+    height: 140px;
+}
+.text1:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+    filter: drop-shadow(0 0 3px rgb(7, 7, 7));
+}
+p{
+    color: black;
+    top: 100px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    left: -20px;
+}
+.int{
+    width: 150px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: -50px;
+}
+.love{
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.love:hover{
+    filter: drop-shadow(0 0 3px black);
+
+}
+.logoss{
+    position: absolute;
+    width: 180px;
+    right: 0;
+}
+h6{
+    color: red;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 90px;
+    font-size: 18px;
+}
+.icons{
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.5);
+    display: block;
+    border-radius: 10px;
+    left: 1px;
+    bottom: 0px;
+}
+.icons1{
+    width: 20px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.icons1:hover{
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 3px blue);
+}
+.icons2:hover{
+    transform:scale(1.1) ;
+    filter: drop-shadow(0 0 3px rgb(255, 0, 191));
+}
+.icons3:hover{
+    transform:scale(1.1) ;
+    filter: drop-shadow(0 0 3px rgb(255, 255, 255));
+}
+.icons2{
+    width: 20px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+.icons3{
+    width: 20px;
+    padding: 10px;
+    cursor: pointer;
+
+}
+  /*2*/
+.texttwo{
+    position: absolute;
+    padding: 90px 60px;
+    top: 590px;
+    margin: 140px 50px;
+    display: flex;
+    border-radius: 10px;
+    background-image: url('../BilahStore/WallpaperDog-975714.jpg');
+}
+.text2{
+    background-color: #ebeeef    ;
+    padding: 102px;
+    cursor: pointer;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin: 13px;
+    transition: 0.2s;
+    height: 140px;
+}
+.text2:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+    filter: drop-shadow(0 0 3px rgb(255, 255, 255));
+}
+.love1{
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.love1:hover{
+    filter: drop-shadow(0 0 3px black);
+
+}
+/*3*/
+.textTr{
+    position: absolute;
+    padding: 90px 60px;
+    top:1200px;
+    margin: 140px 50px;
+    display: flex;
+    border-radius: 10px;
+    background-image: url('../BilahStore/background\ rebok.png');
+
+}
+.text3{
+    background-color: #a4ffa9   ;
+    padding: 102px;
+    cursor: pointer;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin: 13px;
+    transition: 0.2s;
+    height: 140px;
+}
+.text3:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+    filter: drop-shadow(0 0 6px #00ff0d);
+}
+.int{
+    width: 150px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: -50px;
+    border-radius: 10px;
+}
+.love2{
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.love2:hover{
+    filter: drop-shadow(0 0 3px black);
+
+}
+/*hot*/
+.texthot{
+    position: absolute;
+    padding: 120px 30px;
+    top:1700px;
+    margin: 170px 70px;
+    display: flex;
+    border-radius: 10px;
+
+}
+.text4{
+    background-color: #e9e9e9    ;
+    padding: 130px;
+    cursor: pointer;
+    justify-content: space-between;
+    border-radius: 40px;
+    margin: 13px;
+    transition: 0.2s;
+    height: 120px;
+}
+.text4:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+    filter: drop-shadow(0 0 5px rgb(255, 0, 0));
+}
+.into{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: -100px;
+}
+.pip{
+    background-color: rgba(129, 129, 129, 0.39);
+    padding: 178px 120px;
+    top: -146px;
+    border-radius: 14px;
+    left: 110px;
+    
+}
+.end{
+    position:absolute;
+    top: 2430px;
+    left: 40px;
+}
+.end1{
+    position: absolute;
+    top: 2520px;
+    right: 10px;
+}
+.ende{
+    padding: 10px;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    display: flex;
+}
+.ende:hover{
+    text-decoration: underline;
+}
